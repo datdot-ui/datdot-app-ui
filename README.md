@@ -1,2 +1,2 @@
 # datdot-app-ui
-Ui for Tauri app
+UI for Electron app
